@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on this
-- 🌱 I’m currently learning lua
+- 🌱 I’m currently learning html
 - 👯 I’m looking to collaborate on nothing
 - 🤔 I’m looking for help with nothing im a lazy person
 - 💬 Ask me about portal
